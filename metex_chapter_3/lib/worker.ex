@@ -1,6 +1,6 @@
 defmodule Metex.Worker do
   defp apikey do
-    "1d4fe326ec575e70ca36425b085d5f0b"
+    "TOKEN"
   end
 
   def loop do
