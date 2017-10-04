@@ -1,0 +1,3 @@
+* Exercises
+** metex_chapter_3
+Metex done with processes only
